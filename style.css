@@ -1,0 +1,45 @@
+.head{
+	background-color: orange;
+	font-family: verdana;
+	text-align: center;
+	border: 2px solid black;
+}
+
+.buttons{
+	text-align: center;
+	background-color: gray;
+	position: relative;
+	border: 1px solid black;
+	font-family: verdana;
+}
+
+a:link{
+	color: orange;
+}
+
+a:visited{
+  color: orange;
+}
+
+a:hover{
+	color: black;	
+}
+
+.foot{
+	background-color: gray;
+	color: orange;
+	border: 1px solid black;
+	font-family: verdana;	
+	font-size: 12;
+	text-align:center;
+}
+
+.body{
+	font-family: calibri;
+	text-align: center;
+}
+
+.table{
+	text-align: center;
+	font-family: calibri;
+}
